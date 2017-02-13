@@ -1,4 +1,4 @@
-# akeshnha
+# viking_bot
 #INSTALL
 
 ```sh
@@ -14,9 +14,9 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 sudo ppa-purge
 
-git clone https://github.com/mostafapoent/akeshnha.git
+git clone https://github.com/RagnarDEV/viking_bot.git
 
 
-cd akeshnha
+cd viking_bot
 chmod +x install
 ./install
