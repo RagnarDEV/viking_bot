@@ -15,7 +15,6 @@ do local _ = {
   sudo_users = {
     7962590,
       
-    
   },
 robot = {
     230849872,
